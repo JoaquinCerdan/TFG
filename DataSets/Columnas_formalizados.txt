@@ -1,0 +1,10 @@
+Num. Expediente
+Objeto Contrato
+Descripción Lotes Contrato
+Tipo Tramitación
+Procedimiento de Contratación
+Presupuesto de Licitación (IVA incluido)
+"Importe Adjudicación(IVA incluido)"
+Fecha Formalización Contrato
+Plazo Ejecución	NIF/CIF Adjudicatario/Contratista
+Razón Social Adjudicatario/Contratista
